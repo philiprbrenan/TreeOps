@@ -1,6 +1,6 @@
 # Build and test CPAN module: TreeOps
 
-name: TreeOps
+name: Test
 
 on:
   push
