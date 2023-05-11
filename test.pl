@@ -4,7 +4,7 @@
 # Philip R Brenan at gmail dot com, Appa Apps Ltd, 2016
 #-------------------------------------------------------------------------------
 
-use warnings FATAL => qw(all);
+use warnings;
 use strict;
 use Tree::Ops;
 

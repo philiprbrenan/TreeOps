@@ -7,7 +7,7 @@
 package Tree::Ops;
 our $VERSION = 20201030;
 require v5.26;
-use warnings FATAL => qw(all);
+use warnings;
 use strict;
 use Carp;
 use Data::Dump qw(dump);
